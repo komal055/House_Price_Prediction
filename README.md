@@ -1,2 +1,2 @@
 # House_Price_Prediction
-A trained machine learning model capable of predicting house prices with high accuracy, helping users make informed real-estate decisions and reducing the risk of overpricing or underpricing properties.
+An end-to-end Machine Learning project for predicting house prices using Linear Regression. Built using a Kaggle housing dataset, this project demonstrates data preprocessing, visualization, feature engineering, and model evaluation to generate accurate price predictions.
